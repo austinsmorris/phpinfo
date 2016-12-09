@@ -1,3 +1,3 @@
 <?php
 
-require_once('../phpinfo.php');
+require_once('../phpinfo/phpinfo.php');
